@@ -1,4 +1,4 @@
-# Klipper Config for my [Ender6](https://yduf.github.io/3dprinter-ender6q)
+# Klipper Config for my [Ender6](https://yduf.github.io/3dprinter-ender6)
 
 ## Current Config 13/08/2022
 - ender6
